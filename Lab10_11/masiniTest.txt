@@ -1,0 +1,9 @@
+101/Mercedes - Benz/Clasa G/SUV
+102/Audi/A7/Sport
+103/Range Rover/Velar/SUV
+105/Toyota/Proace/Dubita
+106/Mercedes-Benz/EQS/Limuzina
+107/newName/TT/Sport
+108/Toyota/Supra/Sport
+109/Volkswagen/Polo/Compact
+110/Volkswagen/Arteon/Sedan
